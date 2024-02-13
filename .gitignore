@@ -150,3 +150,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# No powerpoint
+*.ppt
+*.pptx
